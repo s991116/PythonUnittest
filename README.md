@@ -9,5 +9,5 @@ python -m unittest -v
 ## Writing Unittest
 When writing unittest follow these criterias 
 - Name Python file with unittest test_*
-- Test method is named "test_xxx"
+- Test method name starts with 'test_'
 - Use the Arrange, Act, Assert for each test
