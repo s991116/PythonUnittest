@@ -6,7 +6,7 @@ To run unittests run the Command line
 python -m unittest -v 
 ```
 
-## Unittest library
+## Writing Unittest
 When writing unittest follow these criterias 
 - Name Python file with unittest test_*
 - Test method is named "test_xxx"
