@@ -20,7 +20,7 @@ A cell dies of continues to life or is born from an empty cell using the followi
 The next generation of cells are calculated based on the current generation.
 
 ### Example
-**Generation 1
+**Generation 1**
 |   |   |   |
 |---|---|---|
 | _ | X | _ |
@@ -28,7 +28,7 @@ The next generation of cells are calculated based on the current generation.
 | X | X | X |
 | _ | _ | _ |
 
-**Generation 2
+**Generation 2**
 |   |   |   |
 |---|---|---|
 | _ | _ | _ |
