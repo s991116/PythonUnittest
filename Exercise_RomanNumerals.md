@@ -20,11 +20,11 @@ Eg. The number "5" should return "V"
 |500    |	 D      |
 |1000   |	 M      |
 
-### Rule 1: Repetation 
+### Rule 1: Repetition 
 When certain numerals are repeated, the number represented by them is their sum. 
 For example, II = 1 + 1 = 2, or XX = 10 + 10 = 20, or, XXX = 10 + 10 + 10 = 30.
 
-### Rule 2: Max 3 Repetation
+### Rule 2: Max 3 repetition
 It is to be noted that no Roman numerals can come together more than 3 times. 
 For example, we cannot write 40 as XXXX
 
