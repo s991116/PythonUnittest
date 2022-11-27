@@ -21,12 +21,14 @@ The next generation of cells are calculated based on the current generation.
 
 ### Example
 *Generation 1
+|---|---|---|
 |   | X |   |
 |   |   | X |
 | X | X | X |
 |   |   |   |
 
 *Generation 2
+|---|---|---|
 |   |   |   |
 | X |   | X |
 |   | X | X |
